@@ -1,0 +1,6 @@
+#in day 38 we are learn about how to raising custum error in python...
+#raise keyword is used to raising an an custum error.....
+a=int(input("enter the number between 5 to 9 : "))
+
+if(a < 5 or a >9):
+    raise ValueError("value should be between 5 to 9")

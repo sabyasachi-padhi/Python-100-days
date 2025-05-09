@@ -1,0 +1,3 @@
+#in day one we are learn about what is python and use of python
+#feature of python........
+

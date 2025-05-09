@@ -1,0 +1,6 @@
+#in day 3 we are learn about module and pip........
+#module are two type 
+#1.external madule
+#2.internal module...
+import pandas
+print("pandas module is succsessfully")
